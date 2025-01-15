@@ -106,7 +106,7 @@ function App() {
     <>
 
 <div className="container d-flex flex-column justify-content-center align-items-center my-5">
-        <h1 className="mb-4">Higher Secondary Registration Form</h1>
+        <h1 className="mb-4 text-center">Higher Secondary Registration Form</h1>
 
         <form className="w-50">
           <div className="mb-3">
